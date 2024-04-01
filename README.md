@@ -27,7 +27,3 @@ This project is a web-based statistics calculator that allows users to input a l
 
 To run the Statistics Calculator, simply open the `index.html` file in a web browser.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
